@@ -19,7 +19,8 @@ python -m venv venv
 3. Install Django and the other necessary packages.
 
 ```bash
-pip install django djangorestframework
+python -m pip install django djangorestframework
+python -m pip install django-cors-headers
 # @Justin-Zwart put your other pip-installs here :)
 ```
 
