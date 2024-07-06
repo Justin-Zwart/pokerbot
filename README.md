@@ -18,3 +18,4 @@ Game tree analysis
 
 References:
 https://josephcottingham.medium.com/my-attempt-at-writing-a-poker-bot-c53c9ccf9960
+https://github.com/gtowizard-ai/mitpoker-2024
