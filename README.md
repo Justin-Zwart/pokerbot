@@ -2,6 +2,9 @@
 
 ## Resources
 
+https://josephcottingham.medium.com/my-attempt-at-writing-a-poker-bot-c53c9ccf9960
+https://github.com/gtowizard-ai/mitpoker-2024
+
 Josiah is currently going through [this tutorial](https://dev.to/koladev/building-a-fullstack-application-with-django-django-rest-nextjs-3e26) setting up [Django](https://www.djangoproject.com/) and [Next.js](https://nextjs.org/).
 
 ## Get Started
@@ -55,3 +58,15 @@ cd frontend
 npm run build
 npm run start
 ```
+
+## Modules (planning)
+
+### Decision Module
+
+Bet/Fold/Raise/Check
+
+Person Profiler
+
+### Hand Valuation / Equity Calculator
+
+Game tree analysis
